@@ -1,0 +1,21 @@
+,ItemID,ItemDescription,DateObtained,Price,Weight,SouvenirName,CityName,RegionName,CountryName,CategoryName,PlaceName,Latitude,Longitude,OwnerName
+0,1,,2019/02/15,7.5,12.0,Grizzly Bear Mug,,,,Kitchenware,Rocky Mountain National Park,40.343182,-105.688103,Group 3
+1,2,,2019/02/17,9.99,20.0,Snowy Mountain Mug,,,,Kitchenware,Rocky Mountain National Park,40.343182,-105.688103,Group 3
+2,3,,2019/03/05,12.99,16.0,Lobster Mug,,,,Kitchenware,Offshore Trap/Pot Waters Area,38.0,-82.0,Group 3
+3,4,,2019/04/18,10.25,16.0,Sea Lion Mug,,,,Kitchenware,Steller Sea Lion Protection Area,57.466667,-153.433334,Group 3
+4,5,,2019/05/07,6.91,20.0,Coral Reef Mug,,,,Kitchenware,Pacific Remote Islands Marine National Monument,16.736944,-169.523895,Group 3
+5,6,,2019/06/15,8.99,12.0,Ocean Life Mug,,,,Kitchenware,Papahanaumokuakea Marine National Monument,25.700001,-171.733337,Group 3
+6,7,,2019/07/21,9.75,16.0,Landscape Mug,,,,Kitchenware,Danville Conservation Area,38.865097,-91.504852,Group 3
+7,8,,2019/08/01,13.25,24.0,Bird Mug,,,,Kitchenware,Sand Harbor State Park,39.198364,-119.930984,Group 3
+8,9,,2019/09/15,11.4,20.0,Dunes Mug,,,,Kitchenware,White Sands National Park,32.77972,-106.171669,Group 3
+9,10,,2019/10/15,19.99,12.0,Skier Mug,,,,Kitchenware,Jackson Hole,43.582767,-110.821999,Group 3
+10,11,,2019/11/09,14.25,16.0,Desert Mug,,,,Kitchenware,Mojave National Preserve,35.141689,-115.510399,Group 3
+11,12,,2019/11/27,12.99,20.0,Mountain City Mug,,,,Kitchenware,Rocky Mountain National Park,40.343182,-105.688103,Group 3
+12,13,,2019/12/04,12.5,12.0,Joshua Tree Mug,,,,Kitchenware,Joshua Tree National Park,33.881866,-115.90065,Group 3
+13,14,,2020/01/15,11.99,20.0,River View Mug,,,,Kitchenware,Buffalo National River,35.985512,-92.757652,Group 3
+14,15,,2020/02/13,10.75,16.0,Hot Springs Mug,,,,Kitchenware,Hot Springs National Park,34.52153,-93.042267,Group 3
+15,16,,2020/03/15,10.99,12.0,Cave Bat Mug,,,,Kitchenware,Kartchner Caverns State Park,31.837551,-110.347382,Group 3
+16,17,,2021/01/11,15.0,12.0,Cowboy Mug,,,,Kitchenware,Jackson Hole,43.582767,-110.821999,Group 3
+17,18,,2021/02/28,12.25,20.0,Buffalo Mug,,,,Kitchenware,Buffalo National River,35.985512,-92.757652,Group 3
+18,19,,2021/03/26,9.95,16.0,Gila Monster Mug,,,,Kitchenware,Mojave National Preserve,35.141689,-115.510399,Group 3
+19,20,,2021/05/08,25.0,24.0,Pink Mug,,,,Kitchenware,Pacific Remote Islands Marine National Monument,16.736944,-169.523895,Group 3
